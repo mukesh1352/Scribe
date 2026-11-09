@@ -1,7 +1,7 @@
 # SCRIBE
 
-```> A terminal-native runtime for computational notebooks. 
-```
+ > A terminal-native runtime for computational notebooks. 
+ 
 Scribe is an experimental developer tool for working with the JUPYTER NOTEBOOKS directly from the terminal.
 The goal is to provide the clean, interactive, terminal-first notebook experience with cell-by-cell execution, persistence
 kernel state, rich output rendering, and the future integration with the NEOVIM.
@@ -10,8 +10,8 @@ kernel state, rich output rendering, and the future integration with the NEOVIM.
 
 Jupyter notebooks are powerful, but they are primarily designed around the browser-based interfaces.
 Scribe explores a different approach:
-```> What if notebooks could be explored, executed, and managed naturally from the terminal?
-```
+
+> What if notebooks could be explored, executed, and managed naturally from the terminal?
 
 Scribe aims to provide a notebook runtime that works without requiring a traditional web interfaces.
 
